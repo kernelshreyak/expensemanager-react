@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+p{
+  text-align: left;
+}
+table, th, td {
+  border: 1px solid black;
+}
+table{
+  width: 100%;
+}
+expenseTd{
+  background-color: #f5a698
+}
